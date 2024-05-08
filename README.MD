@@ -14,10 +14,4 @@
 - HTML, CSS, JS для верстки
 
 
-
-
-
-
-
-![Image alt]
-(https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+Внешний вид сайта и формат вывод данных можно посмотреть в директории pics_for_readme
