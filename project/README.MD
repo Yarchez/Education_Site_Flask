@@ -20,4 +20,4 @@
 
 
 ![Image alt]
-(https://github.com/{Yarchez}/{Education_Site_Flask}/raw/{branch}/{project/pics_for_readme}/homepage.png)
+(https://github.com/{Yarchez}/{Education_Site_Flask}/raw/{main}/{project/pics_for_readme}/homepage.png)
