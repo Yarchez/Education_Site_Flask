@@ -1,0 +1,20 @@
+
+.main-content {
+    vertical-align: middle;
+    max-width: 600px; /* Ширина контейнера */
+    margin: 0 auto; /* Центрирование по горизонтали */
+}
+
+h2 {
+    font-size: 2rem;
+    color: #e1b382;
+    display: inline-block;
+    margin-top: 100px;
+    left: 70px;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #666;
+}
+
